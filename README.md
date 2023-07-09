@@ -1,7 +1,7 @@
 # RainCloud
 Creating a personal file share cloud server using AWS and FileCloud.
 
-The goal of this project is to make my own cloud server so that I can use it to grab or share files from anywhere.
+The goal of this project is to make my own cloud server so that I can use it to save or share files from anywhere.
 
 -On AWS I selected EC2 for virtual servers within the cloud
 
